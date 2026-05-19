@@ -1,0 +1,4 @@
+repo=OrMizrahi12/argus-wgs-hvac-16-petah-tikva-e715a2-concept
+cleared_at_utc=2026-05-19T09:03:50.919835+00:00
+action=disable_pages_and_force_push_minimal_main
+protocol=WGS
